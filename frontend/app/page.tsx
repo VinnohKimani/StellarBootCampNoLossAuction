@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { Freighter } from "@stellar/freighter-api";
+import  Freighter  from "@stellar/freighter-api";
 
 const CONTRACT_ID = "CCHWTOJNVRDSNNDSDZQRVVSJKXVS2IZCQJEZS3WSK7CW3DBL3VJYHUBZ";
 
